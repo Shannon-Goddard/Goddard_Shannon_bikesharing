@@ -1,9 +1,48 @@
-Now that we've gotten a good idea how to create our story, we can start to form a story to tell to our investors. 
+![Header](/pics/header.png)
 
-Our goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So we want to format our story so it's persuasive! We'll also want to include information about both New York City and Des Moines—after all, the investors will need to understand how the Citi Bike data for New York City applies to our proposal.
+#### Table of Contents
 
-For this portion of the presentation, you'll work with a team that is trying to answer core questions about opening a bike-sharing business in Des Moines.
-In this challenge, you will put together your final presentation and analysis for investors. You'll select the questions you want to answer, conduct independent research, craft your story in Tableau, and then create your written analysis.
+[Project Overview](#project-overview)  
+[Resources](#resources)  
+[Objectives](#objectives)  
+[Summary](#summary)   
+[Challenge Overview](#challenge-overview)  
+[Challenge Objectives](#challenge-objectives)
+[Challenge Summary](#challenge-summary)  
+[Limitations](#limitations)
+
+## Project Overview
+In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company. First, we learned how to import, style, and portray data accurately. Then, we created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
+
+## Resources
+
+
+## Objectives
+- Import data into Tableau.
+- Create and style worksheets, dashboards, and stories in Tableau.
+- Use Tableau worksheets to display data in a professional way.
+- Portray data accurately using Tableau dashboards.
+
+## Summary  
+
+
+## Challenge Overview  
+In this challenge, we put together our final presentation and analysis for investors. We selected the questions we wanted to answer, conducted independent research, crafted our story in Tableau, and then created our written analysis.
+
+## Challenge Objectives  
+- Display data professionally and accurately.
+- Professionally style a Tableau story.
+- Utilize previously created Tableau worksheets to create a new story.
+- Create a Tableau story based on starting a bike-sharing company in Des Moines.  
+
+## Challenge Summary  
+For this portion of the presentation, we worked with a team that is trying to answer core questions about opening a bike-sharing business in Des Moines.  
+
+Our goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So we wanted to format our story so it was persuasive. We also wanted to include information about both New York City and Des Moines—after all, the investors will need to understand how the Citi Bike data for New York City applies to our proposal.
+
+## Limitations  
+One thing to note about Tableau Desktop is that it does cost money every month. However, you can choose to do a [14-day free trial](https://www.tableau.com/products/desktop/download), which allowed us to complete the work in this module without being charged.
+
 #### Background
 The moment has come to put together the final presentation for the investors. You've asked your data a lot of questions: the who, what, where, and how long. The Citi Bike data is ready to help you tell a story, but it's up to you and the team to deliver a compelling story. Your final deliverable might look different from a peer's deliverable, and that's okay.  
 
@@ -11,14 +50,7 @@ To craft this narrative for the investors, you'll do the following:
 - Select your questions. During this step, you'll consider which results you want to share with your audience. What do they want to see? How can we use that information to make their decision making process easier?
 - Execute independent research. You'll need to look at other relevant pieces of information to build a bigger picture. Search other sources to find information that will make your visualization more powerful.
 - Craft your Tableau story. This is when you create your story, primarily from worksheets and other visuals, with descriptions for each of them.
-- Create a written analysis. The written analysis is intended to provide additional insight into what we're trying to convey to our audience. This is a good place to add extra detail so that everyone can get on the same page.
-## Objectives
-The goals of this challenge are for you to:
-- Display data professionally and accurately.
-- Professionally style a Tableau story.
-- Utilize previously created Tableau worksheets to create a new story.
-- Create a Tableau story based on starting a bike-sharing company in Des Moines.  
-
+- Create a written analysis. The written analysis is intended to provide additional insight into what we're trying to convey to our audience. This is a good place to add extra detail so that everyone can get on the same page.  
 #### Instructions
 The tasks for this challenge are broken up into four key steps: select your questions, do independent research, craft your story, and write an analysis.
 #### Step 1: Select Your Questions
@@ -60,11 +92,3 @@ Your written analysis can include all or some of the following:
 **Format**
 Write your analysis in a markdown file named citibike_analysis.md, using VS Code. Your document should include a title. There are different sizes, or levels, of headings that correspond to the number of "#" signs preceding the title. For example:
 # NYC Citi Bike Analysis
-## Smaller Title
-### Even Smaller Title
-The following image shows what your file will look like with text added below the title:
-# NYC Citi Bike Analysis 
-This is a summary of the analytic work that I did with the NYC Citi Bike data.
-## Smaller Title
-### Even Smaller Title
-When you put citibike_analysis.md in GitHub, here's what it will look like:
