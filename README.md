@@ -40,11 +40,11 @@ For our analysis, we imported the CSV file, which contains all the data we neede
 
 #### Create and style worksheets, dashboards, and stories in Tableau.
 <br/>  
-**Worksheet**
+Worksheet
 <img align="left" width="250" src="/pics/worksheet.png"><br/>  
-**Story**
+Story
 <img align="left" width="250" src="/pics/story.png"><br/>  
-**Dashboard**
+Dashboard
 <img align="left" width="250" src="/pics/dashboard.png"><br/>
 <br/>
 <br/>
