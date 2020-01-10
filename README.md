@@ -16,8 +16,8 @@ In this module, we worked with data visualization software called Tableau to pre
 
 ## Resources  
 For this project, we used data from the Citi Bike program in New York City. The data we downloaded was contained in a flat file, a CSV. 
-We went to the [Citi Bike System Data](https://www.citibikenyc.com/system-data) page. This link took us to an index of [trip data](https://s3.amazonaws.com/tripdata/index.html). We scrolled down the list to 201908-citibike-tripdata.csv.zip, then downloaded and saved on our computer.
-. In the “Citi Bike Trip Histories” section, click the link that says “downloadable files of Citi Bike trip data,
+We went to the [Citi Bike System Data](https://www.citibikenyc.com/system-data) page. This link took us to an index of [trip data](https://s3.amazonaws.com/tripdata/index.html). We scrolled down the list to **201908-citibike-tripdata.csv.zip**, then downloaded and saved on our computer.  
+
 - **Data Source:** 201908-citibike-tripdata.csv, [Des Moines Census Data](https://www.census.gov/quickfacts/desmoinescityiowa), [Des Moines Tourism Website](https://www.catchdesmoines.com/things-to-do/)
 - **Software:** Tableau, VS Code
 
