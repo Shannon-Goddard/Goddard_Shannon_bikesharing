@@ -39,9 +39,12 @@ There are two primary ways that Tableau connects to the data we provide: through
 For our analysis, we imported the CSV file, which contains all the data we needed for this project. Therefore, we technically worked with extracted data for our project.  
 
 #### Create and style worksheets, dashboards, and stories in Tableau.
-<br/>
-<img align="left" width="250" src="/pics/worksheet.png"><br/>
-<img align="left" width="250" src="/pics/story.png"><br/>
+<br/>  
+**Worksheet**
+<img align="left" width="250" src="/pics/worksheet.png"><br/>  
+**Story**
+<img align="left" width="250" src="/pics/story.png"><br/>  
+**Dashboard**
 <img align="left" width="250" src="/pics/dashboard.png"><br/>
 <br/>
 <br/>
