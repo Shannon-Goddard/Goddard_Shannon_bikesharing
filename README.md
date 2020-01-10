@@ -38,8 +38,7 @@ There are two primary ways that Tableau connects to the data we provide: through
 **Extract data** is primarily when we use files such as CSV, TXT, or PDF. These files remain unchanged unless we pull a new extract of the data. For example, if we update the file, we would have to update it in Tableau as well.
 For our analysis, we imported the CSV file, which contains all the data we needed for this project. Therefore, we technically worked with extracted data for our project.  
 
-#### Create and style worksheets, dashboards, and stories in Tableau.
-<br/>  
+#### Create and style worksheets, dashboards, and stories in Tableau.<br/>  
 Worksheet
 <img align="left" width="250" src="/pics/worksheet.png"><br/>  
 Story
@@ -50,11 +49,6 @@ Dashboard
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
-<br/> 
-
-
 #### Use Tableau worksheets to display data in a professional way.  
 The best visualizations have a clear purpose and work for their intended audience. What will we be trying to say with this dashboard? Are we presenting a conclusion or a key question?  
 
