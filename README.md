@@ -15,7 +15,8 @@
 In this module, we worked with data visualization software called Tableau to present a business proposal for a bike-sharing company. First, we learned how to import, style, and portray data accurately. Then, we created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
 
 ## Resources
-
+- **Data Source:** [201908-citibike-tripdata.csv](/201908-citibike-tripdata.csv), [Des Moines Census Data](https://www.census.gov/quickfacts/desmoinescityiowa), [Des Moines Tourism Website](https://www.catchdesmoines.com/things-to-do/)
+- **Software:** Tableau, VS Code
 
 ## Objectives
 - Import data into Tableau.
