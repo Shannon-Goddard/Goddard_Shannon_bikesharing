@@ -28,7 +28,7 @@ We went to the [Citi Bike System Data](https://www.citibikenyc.com/system-data) 
 - Portray data accurately using Tableau dashboards.
 
 ## Summary
-#### Import data into Tableau
+### Import data into Tableau
 In Tableau, we have a variety of different options when it comes to data sources. We can have flat files such as CSV, PDF, and TXT files, as well as other data sources like databases and data streams. (These will mostly be SQL databases.)  
 
 There are two primary ways that Tableau connects to the data we provide: through live data or extract data. Both have their benefits and uses:  
@@ -38,7 +38,7 @@ There are two primary ways that Tableau connects to the data we provide: through
 **Extract data** is primarily when we use files such as CSV, TXT, or PDF. These files remain unchanged unless we pull a new extract of the data. For example, if we update the file, we would have to update it in Tableau as well.
 For our analysis, we imported the CSV file, which contains all the data we needed for this project. Therefore, we technically worked with extracted data for our project.  
 
-#### Create and style worksheets, dashboards, and stories in Tableau.
+### Create and style worksheets, dashboards, and stories in Tableau.
 <br/>  
 Worksheet
 <img align="left" width="250" src="/pics/worksheet.png"><br/>  
@@ -51,15 +51,15 @@ Dashboard
 <br/>
 <br/>  
 
-#### Use Tableau worksheets to display data in a professional way.  
+### Use Tableau worksheets to display data in a professional way.  
 The best visualizations have a clear purpose and work for their intended audience. What will we be trying to say with this dashboard? Are we presenting a conclusion or a key question?  
 
 In addition to knowing what we're trying to say, it's important to know who we're saying it to. Does our audience know this subject matter extremely well or will it be new to them? What kind of cues will they need? Thinking about these questions before we head into the design phase can help us create a successful dashboard.  
 
 Designing data visualizations is a huge field within the data industry, with some jobs devoted to making visualizations look better. While we don’t need to know everything about designing worksheets, we should be familiar with some best practices. The [Tableau website](https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm) provides information about best practices for effective dashboards. 
  
-#### Portray data accurately using Tableau dashboards.  
-
+### Portray data accurately using Tableau dashboards.  
+![dashboard](/pics/dashboard.png)
 
 
 ## Challenge Overview  
