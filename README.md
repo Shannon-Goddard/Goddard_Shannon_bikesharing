@@ -42,8 +42,12 @@ For our analysis, we imported the CSV file, which contains all the data we neede
 
 
 #### Use Tableau worksheets to display data in a professional way.  
+The best visualizations have a clear purpose and work for their intended audience. What will we be trying to say with this dashboard? Are we presenting a conclusion or a key question?  
 
+In addition to knowing what we're trying to say, it's important to know who we're saying it to. Does our audience know this subject matter extremely well or will it be new to them? What kind of cues will they need? Thinking about these questions before we head into the design phase can help us create a successful dashboard.  
 
+Designing data visualizations is a huge field within the data industry, with some jobs devoted to making visualizations look better. While we don’t need to know everything about designing worksheets, we should be familiar with some best practices. The [Tableau website](https://help.tableau.com/current/pro/desktop/en-us/dashboards_best_practices.htm) provides information about best practices for effective dashboards. 
+ 
 #### Portray data accurately using Tableau dashboards.  
 
 
