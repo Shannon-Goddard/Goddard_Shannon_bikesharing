@@ -76,7 +76,7 @@ For this portion of the presentation, we worked with a team that is trying to an
 
 Our goal is to convince investors that a bike-sharing program in Des Moines is a solid business proposal. So we wanted to format our story so it was persuasive. We also wanted to include information about both New York City and Des Moines—after all, the investors will need to understand how the Citi Bike data for New York City applies to our proposal.
 
-Our proposal can be found at [tableau public](https://public.tableau.com/profile/shannon.goddard#!/)
+Our proposal can be found on [tableau public](https://public.tableau.com/profile/shannon.goddard#!/)
 
 ## Limitations  
 One thing to note about Tableau Desktop is that it does cost money every month. However, you can choose to do a [14-day free trial](https://www.tableau.com/products/desktop/download), which allowed us to complete the work in this module without being charged.
