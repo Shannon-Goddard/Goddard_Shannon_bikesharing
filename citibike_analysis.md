@@ -17,10 +17,11 @@
 [Leverage](#leverage)  
 
 ## About Citi Bike
-Citi Bike is New York City’s bike share system, and the largest in the nation. Citi Bike launched in May 2013 and has become an essential part of our transportation network. It's fun, efficient and affordable – not to mention healthy and good for the environment.
-<img align="left" width="250" src="/pics/bike3.png"><br/> 
+Citi Bike is New York City’s bike share system, and the largest in the nation. Citi Bike launched in May 2013 and has become an essential part of our transportation network. It's fun, efficient and affordable – not to mention healthy and good for the environment.<br/>
+<img align="right" width="250" src="/pics/bike3.png"><br/> 
 Citi Bike, like other bike share systems, consists of a fleet of specially designed, sturdy and durable bikes that are locked into a network of docking stations throughout the city. The bikes can be unlocked from one station and returned to any other station in the system, making them ideal for one-way trips. People use bike share to commute to work or school, run errands, get to appointments or social engagements, and more.
-
+<br/>
+<br/>
 Citi Bike is available for use 24 hours/day, 7 days/week, 365 days/year, and riders have access to thousands of bikes at hundreds of stations across Manhattan, Brooklyn, Queens and Jersey City.
 
 ## Stats
@@ -115,7 +116,7 @@ However, competition can be a good thing. Most of the hard analytic work has bee
 **The average precipitation was 4.13 inches.**  
 
 ![](/pics/des_moines_weather.png)  
-This information can be found on the [Weather Channel](https://weather.com/weather/monthly/l/d39841550f7bf708fd513a00f6fb17375f96b7bec91d3870b1e8021280b82092) website.  
+**This information can be found on the [Weather Channel](https://weather.com/weather/monthly/l/d39841550f7bf708fd513a00f6fb17375f96b7bec91d3870b1e8021280b82092) website.**  
 <br/>
 <br/>
 <br/>
@@ -129,7 +130,11 @@ This information can be found on the [Weather Channel](https://weather.com/weath
 **The average precipitation is 4.44 inches.**  
 
 ![](/pics/new_york_weather.png)   
-This information can be found on the [Weather Channel](https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70) website.
+**This information can be found on the [Weather Channel](https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70) website.**
+<br/>
+<br/>
+<br/>
+<br/>  
 
 Finding that the weather trends are close to each other. Anticipating that the similiar weather trends would reflect that of similiar outdoor activities taking place. However, by Bcycles presence and history of sales, we know that Des Moines is a good location for our service.
 
@@ -161,6 +166,10 @@ Their Annual Membership is is $80+tax, which can be found at [desmoines.bcycle.c
 <img align="left" width="350" src="/pics/b_rates.png"><br/> 
 While, our Annual Membership is $169, which can be found at [citibikenyc.com](https://www.citibikenyc.com/pricing). 
 <img align="left" width="400" src="/pics/citibike_rates.png"><br/>  
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <br/>
