@@ -1,5 +1,5 @@
 ![Header](/pics/a_header.png)  
-Click [here](https://public.tableau.com/profile/shannon.goddard#!/) to view the tableau story
+**Click [here](https://public.tableau.com/profile/shannon.goddard#!/) to view the tableau story**
 #### Table of Contents
 
 [About Citi Bike](#about-citi-bike)  
@@ -18,11 +18,11 @@ Click [here](https://public.tableau.com/profile/shannon.goddard#!/) to view the 
 
 ## About Citi Bike
 Citi Bike is New York City’s bike share system, and the largest in the nation. Citi Bike launched in May 2013 and has become an essential part of our transportation network. It's fun, efficient and affordable – not to mention healthy and good for the environment.
-
+<img align="left" width="250" src="/pics/bike3.png"><br/> 
 Citi Bike, like other bike share systems, consists of a fleet of specially designed, sturdy and durable bikes that are locked into a network of docking stations throughout the city. The bikes can be unlocked from one station and returned to any other station in the system, making them ideal for one-way trips. People use bike share to commute to work or school, run errands, get to appointments or social engagements, and more.
 
 Citi Bike is available for use 24 hours/day, 7 days/week, 365 days/year, and riders have access to thousands of bikes at hundreds of stations across Manhattan, Brooklyn, Queens and Jersey City.
-<img align="left" width="250" src="/pics/bike3.png"><br/> 
+
 ## Stats
 
 **September 2011**  
@@ -87,7 +87,7 @@ Hungry? We've got regional specialties ranging from burgers served up zombie-sty
 Des Moines is a four season city! Catch all of your favorite seasons throughout the year in Greater Des Moines. Enjoy the recreational trails through spring, summer and fall. Ice skate under the stars in the winter. 
 Spring and summer months can bring afternoon thunderstorms. Stay dry in our climate-controlled skywalk system in downtown. Fall ushers in beautiful fall foliage with its pleasant temps. And snowy winters offer a picturesque wonderland.
 ![](/pics/de_moines.png)
-These articles can be found on the website [catchdemoines.com](https://www.catchdesmoines.com/things-to-do/)  
+These articles can be found on the [catchdemoines](https://www.catchdesmoines.com/things-to-do/) website. 
 
 ## Questions
 Generally speaking, when we think about all of the data we have available to us from Citi Bike, we can come up with several questions that we would want a Tableau visualization to help answer. We need to think critically about which questions are the most important for our analysis.  
@@ -105,19 +105,29 @@ We will have competition. Des Moines BCycle is the area's only bike share progra
 ![](/pics/bcycle_map)  
 
 ## Weather
-However, competition can be a good thing. Most of the hard analytiv work has been done for us. Such as: 
+However, competition can be a good thing. Most of the hard analytic work has been done for us. Such as: 
 
 ### August 2019 in Des Moines  
-**The average high was 84 degrees F, while the average low was 65 degrees F. The record high was 109 while the record low was 40. The average precipitation is 4.13 inches.**  
+**The average high was 84 degrees F**  
+**The average low was 65 degrees F**  
+**The record high was 109 degrees F**  
+**The record low was 40 degrees F**  
+**The average precipitation was 4.13 inches.**  
 
 ![](/pics/des_moines_weather.png)  
 This information can be found on the [Weather Channel](https://weather.com/weather/monthly/l/d39841550f7bf708fd513a00f6fb17375f96b7bec91d3870b1e8021280b82092) website.  
 <br/>
 <br/>
 <br/>
-<br/>
+<br/>  
+
 ### August 2019 in New York  
-**The average high was 83 degrees F, while the average low was 68 degrees F. The record high was 104 while the record low was 52. The average precipitation is 4.44 inches.**
+**The average high was 83 degrees F**  
+**The average low was 68 degrees F**  
+**The record high was 104 degrees F**  
+**The record low was 52 degrees F**  
+**The average precipitation is 4.44 inches.**  
+
 ![](/pics/new_york_weather.png)   
 This information can be found on the [Weather Channel](https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70) website.
 
@@ -127,7 +137,7 @@ Finding that the weather trends are close to each other. Anticipating that the s
 Bcycles is operating the same business model as our own. We would have to strategize to move in to claimed territory.
 ![](/pics/how.png)
 ## Strategy
-A clasic stradegy can be found at [fleximize.com](https://fleximize.com/articles/001027/7-steps-to-attracting-customers-away-from-your-competitors), **7 Steps to Attracting Customers Away From Your Competitors.** 
+A classic stradegy can be found at [fleximize.com](https://fleximize.com/articles/001027/7-steps-to-attracting-customers-away-from-your-competitors), **7 Steps to Attracting Customers Away From Your Competitors.** 
 One of the most lucrative ways to improve your business is to attract your competitor’s customers to your business. Consumers will switch brands and businesses if they can see real value, so you need to give them a pretty good reason to choose your business over your competitors.  
   
 Thorough competitor analysis is the strategic way of developing a clearer picture of what's happening in the market and giving you a basis to develop your own action plan. Follow these steps to make your business irresistible to your competitor’s customers:
@@ -148,9 +158,9 @@ Thorough competitor analysis is the strategic way of developing a clearer pictur
 ## Rates
 Bcycles' rates are similiar to our until the pricing of the Annual Membership.  
 Their Annual Membership is is $80+tax, which can be found at [desmoines.bcycle.com](https://desmoines.bcycle.com/top-nav-pages/rates-membership/rates2).  
-<img align="left" width="250" src="/pics/b_rates.png"><br/> 
-While, our Annual Membership is $169, which can be found at [citibikenyc.com](https://www.citibikenyc.com/pricing). That is, almost, 1/2 our price.
-<img align="left" width="250" src="/pics/citibike_rates.png"><br/>  
+<img align="left" width="350" src="/pics/b_rates.png"><br/> 
+While, our Annual Membership is $169, which can be found at [citibikenyc.com](https://www.citibikenyc.com/pricing). 
+<img align="left" width="400" src="/pics/citibike_rates.png"><br/>  
 <br/>
 <br/>
 <br/>
