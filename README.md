@@ -18,7 +18,7 @@ In this module, we worked with data visualization software called Tableau to pre
 For this project, we used data from the Citi Bike program in New York City. The data we downloaded was contained in a flat file, a CSV. 
 We went to the [Citi Bike System Data](https://www.citibikenyc.com/system-data) page. This link took us to an index of trip data, [Download Citi Bike trip history data](https://s3.amazonaws.com/tripdata/index.html). We scrolled down the list to **201908-citibike-tripdata.csv.zip**, then downloaded and saved on our computer.  
 
-- **Data Source:** 201908-citibike-tripdata.csv, [Des Moines Census Data](https://www.census.gov/quickfacts/desmoinescityiowa), [Des Moines Tourism Website](https://www.catchdesmoines.com/things-to-do/)
+- **Data Source:** 201908-citibike-tripdata.csv, [Des Moines Census Data](https://www.census.gov/quickfacts/desmoinescityiowa), [New York Cesus Data](https://www.census.gov/quickfacts/fact/table/newyorkcitynewyork/PST045219), [Des Moines Tourism Website](https://www.catchdesmoines.com/things-to-do/), [Citibike](https://www.citibikenyc.com/about), [desmoines.bcycle.com](https://desmoines.bcycle.com/), [Weather Channel](https://weather.com/weather/monthly/l/d39841550f7bf708fd513a00f6fb17375f96b7bec91d3870b1e8021280b82092) Des Moines, [Weather Channel](https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70) New York, [fleximize.com](https://fleximize.com/articles/001027/7-steps-to-attracting-customers-away-from-your-competitors)
 - **Software:** Tableau, VS Code
 
 ## Objectives
