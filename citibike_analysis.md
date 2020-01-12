@@ -89,11 +89,11 @@ However, competition can be a good thing. Most of the hard analytiv work has bee
 
 August 2019 in Des Moines
 the average high was 84 degrees F, while the average low was 65 degrees F. The record high was 109 while the record low was 40. The average precipitation is 4.13 inches.  
-This information can be found on the Weather Channel(https://weather.com/weather/monthly/l/d39841550f7bf708fd513a00f6fb17375f96b7bec91d3870b1e8021280b82092) website.  
+This information can be found on the [Weather Channel](https://weather.com/weather/monthly/l/d39841550f7bf708fd513a00f6fb17375f96b7bec91d3870b1e8021280b82092) website.  
 
 August 2019 in New York
 the average high was 83 degrees F, while the average low was 68 degrees F. The record high was 104 while the record low was 52. The average precipitation is 4.44 inches.  
-This information can be found on the Weather Channel(https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70) website.
+This information can be found on the [Weather Channel](https://weather.com/weather/monthly/l/f892433d7660da170347398eb8e3d722d8d362fe7dd15af16ce88324e1b96e70) website.
 
 Finding that the weather trends are close to each other. Anticipating that the similiar weather trends would reflect that of similiar outdoor activities taking place. However, by Bcycles presence and history of sales, we know that Des Moines is a good location for our service.
 
